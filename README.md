@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**searleduay-dlsu/searleduay-dlsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
 - 🔭 I’m currently working on exploring the interactions between mutants of amyloid beta peptides and different antimicrobial peptides.
 - 🌱 I’m currently learning to use AI methodologies so I can apply it to my research.
@@ -9,4 +6,4 @@
 - 📫 How to reach me: searle.duay@dlsu.edu.ph
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I love singing! Let's sing together!
--->
+
